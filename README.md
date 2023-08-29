@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishabh01411
+- 👋 Hi, I’m Rishabh Singh Rajawat
 - 👀 I’m interested in Data Science and Data Analyst
 - 🌱 I’m currently learning Data Science
 - 📫 How to reach me https://www.linkedin.com/in/rishabh-singh-rajawat-741780261/
